@@ -1,0 +1,8 @@
+app_identifier("com.Vantan.LLC.testingCI") # The bundle identifier of your app
+apple_id("vantan.llc@gmail.com") # Your Apple email address
+
+itc_team_id "118556361" # iTunes Connect Team ID
+team_id "SNXMW75MBJ" # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile

@@ -15,3 +15,4 @@ install:
   - travis/install_swiftlint.sh
 
 script:
+  - travis/script.sh
